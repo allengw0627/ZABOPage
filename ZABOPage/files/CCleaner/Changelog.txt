@@ -1,0 +1,12 @@
+- Added command line option to reboot after cleaning (/AUTO /RESTART).
+- Improved Firefox cleaning: Site Preferences, History and Startup items.
+- Improved Internet Explorer 10 cleaning: Saved Passwords, Userdata Cookies and Last Download Location.
+- Improved Internet Explorer 9 Last Download Location cleaning.
+- Improved Opera Cache cleaning.
+- Updated Startup items detection for Firefox and Google Chrome.
+- Added Cookie management for multiple users (Pro Version).
+- Improved Startup item management for multiple users on Windows 8 (Pro Version).
+- Added cleaning for Express Scribe, Gom Player, Skype Metro App, Twitter Metro and Adobe Reader Touch.
+- Improved cleaning for Microsoft Office 2013.
+- Added Thai translation.
+- Improved localization and language support.

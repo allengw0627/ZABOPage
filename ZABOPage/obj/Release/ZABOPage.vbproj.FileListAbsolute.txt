@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\bin\ZABOPage.dll
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\bin\ZABOPage.pdb
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\bin\ZABOPage.xml
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\obj\Release\ZABOPage.Resources.resources
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\obj\Release\ZABOPage.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\obj\Release\ZABOPage.dll
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\obj\Release\ZABOPage.xml
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\obj\Release\ZABOPage.pdb
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\bin\Interop.ADODB.dll
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\obj\Release\Interop.ADODB.dll
+C:\inetpub\wwwroot\ZABOPage\ZABOPage\obj\Release\ZABOPage.vbproj.ResolveComReference.cache
